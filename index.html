@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World</title>
+    <style>
+      * {
+        font-family: sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+
+    <script>
+      // Accessing Node's process from the DOM
+      document.write('Node version in use: <strong>' + process.version + '</strong>');
+
+      // Accessing NW.js's API to open the developer tools
+      nw.Window.get().showDevTools();
+    </script>
+
+  </body>
+</html>
