@@ -8,7 +8,7 @@
   "node-remote": "http://localhost:3000",
   "scripts": {
     "start": "nw .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "nwbuild -p win32 ."
   },
   "keywords": [
     "NW.js",
@@ -18,7 +18,8 @@
   "author": "The Jared Wilcurt",
   "license": "MIT",
   "devDependencies": {
-    "nw": "0.25.0-sdk"
+    "nw": "0.25.0-sdk",
+    "nw-builder": "^3.5.7"
   },
   "dependencies": {
     "express": "^4.15.4"
