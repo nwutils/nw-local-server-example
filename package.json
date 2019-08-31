@@ -17,9 +17,9 @@
   "author": "The Jared Wilcurt",
   "license": "MIT",
   "devDependencies": {
-    "nw": "0.25.0-sdk"
+    "nw": "0.40.2-sdk"
   },
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.17.1"
   }
 }
