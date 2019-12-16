@@ -22,4 +22,4 @@ An example of using a local webserver in NW.js
 
 For a more detailed step-by-step tutorial of using NW.js to create your first desktop app, click here:
 
-* [Laptop Battery NW.js App Tutorial](gitlab.com/TheJaredWilcurt/battery-app-workshop)
+* [Laptop Battery NW.js App Tutorial](https://gitlab.com/TheJaredWilcurt/battery-app-workshop)
