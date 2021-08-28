@@ -2,7 +2,7 @@
   "name": "nw-local-server",
   "version": "1.0.0",
   "description": "An example of using a local webserver in NW.js",
-  "repository": "https://github.com/TheJaredWilcurt/nw-local-server",
+  "repository": "https://github.com/nwutils/nw-local-server-example",
   "node-main": "server.js",
   "main": "http://localhost:3000",
   "node-remote": "http://localhost:3000",
@@ -17,7 +17,7 @@
   "author": "The Jared Wilcurt",
   "license": "MIT",
   "devDependencies": {
-    "nw": "0.40.2-sdk"
+    "nw": "0.55.0-sdk"
   },
   "dependencies": {
     "express": "^4.17.1"
