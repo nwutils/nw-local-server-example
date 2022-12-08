@@ -20,6 +20,6 @@
     "nw": "0.55.0-sdk"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
