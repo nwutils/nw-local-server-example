@@ -21,7 +21,7 @@
     "nw": "0.55.0-sdk"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.19.2"
   },
   "volta": {
     "node": "16.4.2"
